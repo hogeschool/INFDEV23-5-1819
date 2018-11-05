@@ -134,7 +134,7 @@ namespace FirstExam
         (c, ca) => c.Code == ca.CourseCode)
         .Join(
           AssignmentTable,
-          /*TODO: question 4*/).Reduce(
+          /*TODO: question 5*/).Reduce(
           new List<Tuple<Tuple<Course, CourseAssignment>, Assignment>>(),
           (l, x) =>
           {
