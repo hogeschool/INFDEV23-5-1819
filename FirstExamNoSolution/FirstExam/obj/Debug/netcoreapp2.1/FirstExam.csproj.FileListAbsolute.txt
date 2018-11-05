@@ -1,0 +1,11 @@
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\bin\Debug\netcoreapp2.1\FirstExam.deps.json
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\bin\Debug\netcoreapp2.1\FirstExam.runtimeconfig.json
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\bin\Debug\netcoreapp2.1\FirstExam.runtimeconfig.dev.json
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\bin\Debug\netcoreapp2.1\FirstExam.dll
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\bin\Debug\netcoreapp2.1\FirstExam.pdb
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\obj\Debug\netcoreapp2.1\FirstExam.csprojAssemblyReference.cache
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\obj\Debug\netcoreapp2.1\FirstExam.csproj.CoreCompileInputs.cache
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\obj\Debug\netcoreapp2.1\FirstExam.AssemblyInfoInputs.cache
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\obj\Debug\netcoreapp2.1\FirstExam.AssemblyInfo.cs
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\obj\Debug\netcoreapp2.1\FirstExam.dll
+C:\Users\fdigi\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6B exams\2018-2019\PracticalPartTime\FirstExamNoSolution\FirstExam\obj\Debug\netcoreapp2.1\FirstExam.pdb
